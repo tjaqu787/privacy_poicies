@@ -1,4 +1,3 @@
-This is just a cute project for me to learn godot
 <h1>TicTacToe Privacy Policy</h1>
 <p>Last updated: 2025/03/22</p>
 
